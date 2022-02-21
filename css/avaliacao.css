@@ -1,0 +1,32 @@
+body {
+    background: rgb(143, 130, 130);
+    padding: 25px;
+}
+
+canvas {
+    border:1px solid gainsboro;
+    background: white;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 1);
+}
+
+.container {
+    position: absolute;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+}
+
+.container1 {
+    object-position: left;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
+
+.container2 {
+    position: relative;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+}
+
